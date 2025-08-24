@@ -13,12 +13,7 @@ This project explores different **Machine Learning models** to predict **CO₂ e
 ***
 
 ## ⚙️ Models Implemented
-1.  **Linear Regression** – Simple baseline model.
-2.  **Polynomial Regression** – Captures non-linear patterns.
-3.  **Ridge Regression** – Regularized linear model to prevent overfitting.
-4.  **Lasso Regression** – Regularized model with feature selection.
-5.  **Decision Tree Regression** – Tree-based model that handles non-linear data.
-6.  **Random Forest Regression** – Ensemble of decision trees for better accuracy.
+1.  **Decision Tree Regression** – Tree-based model that handles non-linear data.
 
 ***
 
